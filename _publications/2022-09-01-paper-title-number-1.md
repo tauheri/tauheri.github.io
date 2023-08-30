@@ -1,8 +1,8 @@
 ---
 title: "Presentation of encryption method for RGB images based on an evolutionary algorithm using chaos functions and hash tables."
 collection: publications
-permalink: /publication/2023-09-01-paper-title-number-1
-date: 2023-09-01
+permalink: /publication/2022-09-01-paper-title-number-1
+date: 2022-09-01
 venue: 'Multimedia Tools and Applications'
 paperurl: 'https://doi.org/10.1007/s11042-022-13734-x'
 citation: 'Omranpour, H., Mohammadi Ledari, Z., & Taheri, M. (2023). Presentation of encryption method for RGB images based on an evolutionary algorithm using chaos functions and hash tables. Multimedia Tools and Applications, 82(6), 9343-9360.'
