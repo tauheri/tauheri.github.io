@@ -3,7 +3,7 @@ title: "Breast cancer prediction by ensemble meta-feature space generator based 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-29-08
+date: 2023-08-29
 venue: 'Biomedical Signal Processing and Control'
 paperurl: 'https://doi.org/10.1016/j.bspc.2023.105382'
 citation: 'Taheri, M., & Omranpour, H. (2024). Breast cancer prediction by ensemble meta-feature space generator based on deep neural network. Biomedical Signal Processing and Control, 87, 105382.'
