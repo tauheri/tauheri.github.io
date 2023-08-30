@@ -1,6 +1,6 @@
 ---
-title: "Deep Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/9.png'>"
+title: "Data Analysis in Excel"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/8.png'>"
 collection: portfolio
 ---
 
