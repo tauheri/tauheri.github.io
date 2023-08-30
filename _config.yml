@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Masoumeh Taheri"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Masoumeh Taheri"
 description              : &description "personal description"
