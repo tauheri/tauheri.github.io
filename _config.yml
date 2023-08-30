@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Masoumeh Taheri"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Masoumeh Taheri"
   avatar           : "profile.png"
-  bio              : "Python Developer"
+  bio              : "AI Researcher | Python Developer"
   location         : "Babol, Iran"
   employer         :
   pubmed           : #  "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
