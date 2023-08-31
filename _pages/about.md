@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
--|-
 I am an AI researcher with a background spanning 2 years in the realm of computer vision, specializing prominently in the analysis of medical images. Recently, my work reached a significant milestone as I successfully published a
 [paper](https://doi.org/10.1016/j.bspc.2023.105382) in the Biomedical Signal Processing and Control journal. This publication introduces a novel feature generator that amplifies the efficacy of features derived from deep neural networks.
 
