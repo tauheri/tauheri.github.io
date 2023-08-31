@@ -4,7 +4,7 @@ excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  # - /about.html
 ---
 
 <span style="color:blue">About me</span>
