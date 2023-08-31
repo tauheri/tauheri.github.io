@@ -1,6 +1,6 @@
 ---
 title: "Python"
-excerpt: ""
+excerpt: "<br/><img src='/images/0.png'>"
 collection: certificates
 ---
 

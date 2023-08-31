@@ -1,6 +1,6 @@
 ---
 title: "Data Science"
-excerpt: ""
+excerpt: "<br/><img src='/images/4.png'>"
 collection: certificates
 ---
 

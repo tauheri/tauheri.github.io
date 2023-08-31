@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis in Excel"
-excerpt: ""
+excerpt: "<br/><img src='/images/8.png'>"
 collection: certificates
 ---
 

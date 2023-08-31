@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning in Python"
-excerpt: ""
+excerpt: "<br/><img src='/images/7.png'>"
 collection: certificates
 ---
 

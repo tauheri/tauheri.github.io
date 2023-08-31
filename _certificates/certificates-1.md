@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning"
-excerpt: ""
+excerpt: "<br/><img src='/images/9.png'>"
 collection: certificates
 ---
 
