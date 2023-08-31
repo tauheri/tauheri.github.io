@@ -5,7 +5,5 @@ collection: certificates
 ---
 
 Skills: 
-
-    - Pandas
-    
-    - Matplotlib
+- Pandas
+- Matplotlib
