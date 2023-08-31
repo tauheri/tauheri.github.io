@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:blue">About me</span>
 ======
-Hey there! I'm Masoumeh, though most know me as Termeh. I'm a guy who's embarked on a journey fueled by curiosity and a desire for exploration. Coding is my ultimate passion, and I'm always up for challenging myself and delving into new experiences. Outside of that, I love immersing myself in music; specifically, I'm a big fan of rap and rock. Connecting with new people and making friends is something I thrive on, so feel free to reach out if you're up for a chat!
+Hey there! I'm Masoumeh, though most know me as <span style="color:red">Termeh</span>. I'm a guy who's embarked on a journey fueled by curiosity and a desire for exploration. Coding is my ultimate passion, and I'm always up for challenging myself and delving into new experiences. Outside of that, I love immersing myself in music; specifically, I'm a big fan of rap and rock. Connecting with new people and making friends is something I thrive on, so feel free to reach out if you're up for a chat!
 
 <span style="color:blue">Work and Study</span>
 ======
