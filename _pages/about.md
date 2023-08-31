@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an AI researcher with a background spanning 2 years in the realm of computer vision, specializing prominently in the analysis of medical images. Recently, my work reached a significant milestone as I successfully published a [paper] (https://doi.org/10.1016/j.bspc.2023.105382) in the Biomedical Signal Processing and Control journal. This publication introduces a novel feature generator that amplifies the efficacy of features derived from deep neural networks.
 
-A data-driven personal website
+My journey into the world of AI commenced during my academic pursuit, specifically through a data mining course. This exposure led me to delve into the intricacies of this domain, prompting me to undertake projects focused on classification and regression using conventional AI models.
+
+Concurrently, I have been actively engaged as a Python developer at Roshan, an AI company. In this role, I've been instrumental in the design and implementation of RESTful APIs, facilitating seamless communication between frontend interfaces and AI models. This endeavor significantly enriched the user experience. Additionally, my involvement extended to augmenting model performance. I undertook the design of preprocessing algorithms tailored to enhance the performance of text-processing models.
+
+My ardor for AI, particularly in the context of computer vision and medical image analysis, is fervent. I continually seek opportunities to amass further proficiency and acumen in this domain, with the ultimate aim of amplifying my expertise and insights.
+
+Honors and Awards
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- My final project ranked first among bachelor projects across all departments at Noshirvani University of Technology.
+- Obtaining a research grant (No P/M/1110) resulted in the publication of my most recent [paper] (https://doi.org/10.1016/j.bspc.2023.105382) in the Biomedical Signal Processing and Control journal.
