@@ -25,4 +25,5 @@ In addition to these pursuits, I've been engaged as a Python developer at Roshan
 <span style="color:blue">Contact</span>
 ======
 Please email me at "masoumeh219@gmail.com".
-I also reply to messages on my [LinkedIn](www.linkedin.com/in/masoumehtaheri); but not as often as my emails.
+
+I also reply to messages on my [LinkedIn](https://www.linkedin.com/in/masoumehtaheri); but not as often as my emails.
