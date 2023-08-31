@@ -5,6 +5,9 @@ collection: certificates
 ---
 
 Skills: 
+
     - Functions 
+
     - Packages
+    
     - NumPy

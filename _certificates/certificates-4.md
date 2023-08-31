@@ -5,6 +5,9 @@ collection: certificates
 ---
 
 Skills:
+
     - Exploring Data
+
     - Preparing Data
+    
     - Analyzing Data
